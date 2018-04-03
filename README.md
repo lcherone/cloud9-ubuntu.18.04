@@ -1,5 +1,8 @@
 # Ubuntu 18.04 - Cloud9 SDK
 
+ - Image size: `532.87MB`
+ - Image fingerprint: `4cee4c277793`
+
 **Installed software:**
 
  - Cloud9 SDK
