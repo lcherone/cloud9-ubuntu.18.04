@@ -1,0 +1,14 @@
+aliases:
+    - { description: '', name: cloud9-ubuntu.18.04 }
+architecture: x86_64
+auto_update: false
+cached: false
+created_at: '0001-01-01T00:00:00Z'
+expires_at: '0001-01-01T00:00:00Z'
+filename: ''
+fingerprint: 4cee4c277793
+last_used_at: '0001-01-01T00:00:00Z'
+properties: {  }
+public: false
+size: 178281612
+uploaded_at: '2018-04-04T11:36:58Z'
