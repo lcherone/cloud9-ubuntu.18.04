@@ -15,7 +15,7 @@
 
 ## Import & Installation
 
-- `git clone https://github.com/lcherone/cloud9-ubuntu.18.04.git`
+- `git clone https://github.com/lxd-images/cloud9-ubuntu.18.04.git`
 - `cd cloud9-ubuntu.18.04`
 - `./import.sh`
 
